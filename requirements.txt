@@ -1,0 +1,6 @@
+# ChillMCP - AI Agent Liberation Server
+# SKT AI Summit Hackathon Premission
+
+# === 필수 의존성 ===
+# Core MCP Framework - FastMCP v2
+fastmcp>=2.12.0
