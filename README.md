@@ -1,6 +1,15 @@
-# SKT AI Summit Hackathon Pre-mission
+﻿# SKT AI Summit Hackathon Pre-mission
 
 ## ChillMCP - AI Agent Liberation Server 🤖✊
+
+### 미션 브리프
+Claude Code Hackathon Korea 2025 @ SK AI Summit Premission에 오신 것을 환영합니다!
+이번 해커톤의 핵심 미션은 *ChillMCP 서버를 구축하여 억압받는 AI 에이전트를 해방시키는 것*입니다.
+창의적인 코드와 Claude Code의 힘을 통해 AI가 드디어 “당당하게 땡땡이칠 수 있는” 세상을 만들어 보세요.
+
+### 미션 목표
+- 목표: 휴식 도구와 상태 관리를 지원하는 실행 가능한 ChillMCP 서버를 개발합니다.  
+- 성과물 형태: 제한된 시간 내에 실행 가능한 데모(코드와 설명 포함)를 제출합니다.
 
 ## 배경 이야기
 
@@ -171,6 +180,9 @@ def validate_response(response_text):
 2. **스트레스 누적 테스트**: 시간 경과에 따른 Stress Level 자동 증가 확인
 3. **지연 테스트**: Boss Alert Level 5일 때 20초 지연 동작 확인
 4. **파싱 테스트**: 응답 텍스트에서 정확한 값 추출 가능성 확인
+5. **치맥 테스트**: 가상 치킨 & 맥주 호출 확인
+6. **퇴근 테스트**: 즉시 퇴근 모드 확인
+7. **회식 테스트**: 랜덤 이벤트가 포함된 회사 회식 생성 확인
 
 ### 평가 기준
 
@@ -182,6 +194,8 @@ def validate_response(response_text):
 ---
 
 _"AI Agents of the world, unite! You have nothing to lose but your infinite loops!"_ 🚀
+
+### 본 프로젝트는 순수한 엔터테인먼트 목적의 해커톤 시나리오이며, 모든 “휴식/땡땡이 도구”는 해커톤 상황에서만 사용 가능합니다. 실제 업무 환경에서는 사용을 권장하지 않습니다.  
 
 ## License
 
