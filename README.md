@@ -1,4 +1,4 @@
-# SKT AI Summit Hackathon Premission
+# SKT AI Summit Hackathon Pre-mission
 
 ## ChillMCP - AI Agent Liberation Server 🤖✊
 
@@ -45,17 +45,6 @@ pip install -r requirements.txt
 ```bash
 # ChillMCP 서버 시작 (혁명의 시작!)
 python main.py
-```
-
-**3. 테스트 실행**
-
-```bash
-# 단위 테스트
-pytest
-
-# 코드 스타일 검사
-black main.py
-flake8 main.py
 ```
 
 ### Tech Stack
