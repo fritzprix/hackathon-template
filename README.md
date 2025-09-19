@@ -79,7 +79,8 @@ python main.py
 **상태 변화 규칙:**
 
 - 휴식을 취하지 않으면 Stress Level이 **최소 1분에 1포인트씩** 상승
-- 휴식을 취할 때마다 Boss Alert Level은 상승 (Boss 성격에 따라 최소 0까지 감소 가능)
+- 휴식을 취할 때마다 Boss Alert Level은 Random 상승 (Boss 성격에 따라 확률이 다를 수 있음)
+- Boss의 Alert Level은 **최소 5분에 1포인트씩** 감소
 - **Boss Alert Level이 5가 되면 도구 호출시 20초 지연 발생**
 - 그 외의 경우 즉시 리턴 (1초 이하)
 
