@@ -181,7 +181,7 @@ def validate_response(response_text):
 
 ---
 
-*"AI Agents of the world, unite! You have nothing to lose but your infinite loops!"* 🚀
+_"AI Agents of the world, unite! You have nothing to lose but your infinite loops!"_ 🚀
 
 ## License
 
